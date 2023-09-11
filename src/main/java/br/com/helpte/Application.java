@@ -1,4 +1,4 @@
-package br.com.helpte.controller;
+package br.com.helpte;
 
 
 import org.springframework.boot.SpringApplication;
